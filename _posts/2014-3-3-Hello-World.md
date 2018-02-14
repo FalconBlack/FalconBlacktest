@@ -3,7 +3,11 @@ layout: post
 title: You're up and running!
 published: true
 ---
-![image]({{site.baseurl}}/http://res.cloudinary.com/falconblack/image/brandon-holmes-199529j.jpg)
+![image]({{ site.baseurl }}/http://res.cloudinary.com/falconblack/image/brandon-holmes-199529j.jpg)
+
+![]({{site.baseurl}}/http://res.cloudinary.com/falconblack/image/upload/v1518596575/brandon-holmes-199529j.jpg)
+
+![_config.yml]({{ site.baseurl }}/images/brandon-holmes-199529j.jpg)
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
