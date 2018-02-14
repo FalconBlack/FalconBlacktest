@@ -9,7 +9,7 @@ name: Falcon Black
 description: Security
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/FalconBlack/FalconBlack.github.io/blob/master/images/FalconBlack.png
+avatar: /images/FalconBlack.png
 
 #
 # Flags below are optional
